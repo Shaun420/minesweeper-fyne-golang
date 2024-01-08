@@ -1,0 +1,8 @@
+Website = "https://shaun420.gq"
+
+[Details]
+Icon = "flag.png"
+Name = "Minesweeper"
+ID = "gq.shaun420.minesweeper"
+Version = "0.0.1"
+Build = 5
